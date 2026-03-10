@@ -1,0 +1,290 @@
+[
+   {
+      "title": "Phòng trọ mới xây gần Phú Mỹ Hưng",
+      "price": 4200000,
+      "description": "<p>Phòng mới 100%, sạch sẽ, khu an ninh, vào ở ngay.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=1",
+         "https://picsum.photos/600/400?random=2",
+         "https://picsum.photos/600/400?random=3",
+         "https://picsum.photos/600/400?random=4"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "phong-tro",
+      "location": "Quận 7, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 25,
+      "options": [
+         "Đầy đủ nội thất",
+         "Có thang máy",
+         "Có máy lạnh",
+         "Có bảo vệ 24/24",
+         "Có hầm để xe",
+         "Không chung chủ",
+         "Có gác",
+         "Có máy giặt"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-02-26T13:13:53.352+00:00",
+      "createdAt": "2026-01-19T13:13:53.379+00:00",
+      "updatedAt": "2026-01-19T13:13:53.379+00:00"
+   },
+   {
+      "title": "Phòng trọ có gác, giờ giấc tự do",
+      "price": 3300000,
+      "description": "<p>Phòng thoáng mát, có gác rộng, không chung chủ.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=5",
+         "https://picsum.photos/600/400?random=6",
+         "https://picsum.photos/600/400?random=7",
+         "https://picsum.photos/600/400?random=8"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "phong-tro",
+      "location": "Bình Thạnh, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 22,
+      "options": [
+         "Có gác",
+         "Giờ giấc tự do",
+         "Không chung chủ",
+         "Có máy lạnh",
+         "Có hầm để xe",
+         "Có kệ bếp",
+         "Có máy giặt",
+         "Có tủ lạnh"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-03-03T10:00:00.000+00:00",
+      "createdAt": "2026-01-20T08:15:00.000+00:00",
+      "updatedAt": "2026-01-20T08:15:00.000+00:00"
+   },
+   {
+      "title": "Căn hộ mini full nội thất, có thang máy",
+      "price": 5500000,
+      "description": "<p>Căn hộ mini sạch đẹp, full nội thất, thang máy, bảo vệ.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=9",
+         "https://picsum.photos/600/400?random=10",
+         "https://picsum.photos/600/400?random=11",
+         "https://picsum.photos/600/400?random=12"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "can-ho-mini",
+      "location": "Quận 10, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 30,
+      "options": [
+         "Đầy đủ nội thất",
+         "Có thang máy",
+         "Có bảo vệ 24/24",
+         "Có hầm để xe",
+         "Có máy lạnh",
+         "Có máy giặt",
+         "Có tủ lạnh",
+         "Giờ giấc tự do"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-03-10T10:00:00.000+00:00",
+      "createdAt": "2026-01-21T09:30:00.000+00:00",
+      "updatedAt": "2026-01-21T09:30:00.000+00:00"
+   },
+   {
+      "title": "Nhà nguyên căn gần chợ, tiện sinh hoạt",
+      "price": 7800000,
+      "description": "<p>Nhà nguyên căn rộng rãi, khu dân cư, gần chợ, an ninh.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=13",
+         "https://picsum.photos/600/400?random=14",
+         "https://picsum.photos/600/400?random=15",
+         "https://picsum.photos/600/400?random=16"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "nha-nguyen-can",
+      "location": "Quận 12, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 60,
+      "options": [
+         "Có kệ bếp",
+         "Có hầm để xe",
+         "Giờ giấc tự do",
+         "Không chung chủ",
+         "Có máy lạnh",
+         "Có tủ lạnh",
+         "Có máy giặt",
+         "Đầy đủ nội thất"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-03-18T10:00:00.000+00:00",
+      "createdAt": "2026-01-22T10:00:00.000+00:00",
+      "updatedAt": "2026-01-22T10:00:00.000+00:00"
+   },
+   {
+      "title": "Chung cư 1PN an ninh 24/24",
+      "price": 9200000,
+      "description": "<p>Chung cư sạch đẹp, bảo vệ 24/24, có hầm để xe, thang máy.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=17",
+         "https://picsum.photos/600/400?random=18",
+         "https://picsum.photos/600/400?random=19",
+         "https://picsum.photos/600/400?random=20"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "can-ho-chung-cu",
+      "location": "Quận 2, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 48,
+      "options": [
+         "Có bảo vệ 24/24",
+         "Có hầm để xe",
+         "Có thang máy",
+         "Giờ giấc tự do",
+         "Có máy lạnh",
+         "Có tủ lạnh",
+         "Có máy giặt",
+         "Có kệ bếp"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-03-25T10:00:00.000+00:00",
+      "createdAt": "2026-01-23T11:20:00.000+00:00",
+      "updatedAt": "2026-01-23T11:20:00.000+00:00"
+   },
+   {
+      "title": "Phòng trọ full nội thất, không chung chủ",
+      "price": 3900000,
+      "description": "<p>Full nội thất, bếp riêng, giờ giấc tự do.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=21",
+         "https://picsum.photos/600/400?random=22",
+         "https://picsum.photos/600/400?random=23",
+         "https://picsum.photos/600/400?random=24"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "phong-tro",
+      "location": "Tân Bình, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 26,
+      "options": [
+         "Đầy đủ nội thất",
+         "Không chung chủ",
+         "Giờ giấc tự do",
+         "Có kệ bếp",
+         "Có máy lạnh",
+         "Có tủ lạnh",
+         "Có máy giặt",
+         "Có hầm để xe"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-04-01T10:00:00.000+00:00",
+      "createdAt": "2026-01-24T08:00:00.000+00:00",
+      "updatedAt": "2026-01-24T08:00:00.000+00:00"
+   },
+   {
+      "title": "Căn hộ mini có gác, tiện nghi",
+      "price": 4800000,
+      "description": "<p>Căn hộ mini có gác, thoáng, phù hợp ở lâu dài.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=25",
+         "https://picsum.photos/600/400?random=26",
+         "https://picsum.photos/600/400?random=27",
+         "https://picsum.photos/600/400?random=28"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "can-ho-mini",
+      "location": "Gò Vấp, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 29,
+      "options": [
+         "Có gác",
+         "Có máy lạnh",
+         "Có kệ bếp",
+         "Giờ giấc tự do",
+         "Không chung chủ",
+         "Có hầm để xe",
+         "Có máy giặt",
+         "Có tủ lạnh"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-04-08T10:00:00.000+00:00",
+      "createdAt": "2026-01-25T09:10:00.000+00:00",
+      "updatedAt": "2026-01-25T09:10:00.000+00:00"
+   },
+   {
+      "title": "Nhà nguyên căn full nội thất, có hầm để xe",
+      "price": 10500000,
+      "description": "<p>Nhà rộng, nội thất đầy đủ, phù hợp gia đình/nhóm bạn.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=29",
+         "https://picsum.photos/600/400?random=30",
+         "https://picsum.photos/600/400?random=31",
+         "https://picsum.photos/600/400?random=32"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "nha-nguyen-can",
+      "location": "Thủ Đức, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 80,
+      "options": [
+         "Đầy đủ nội thất",
+         "Có hầm để xe",
+         "Giờ giấc tự do",
+         "Không chung chủ",
+         "Có máy lạnh",
+         "Có máy giặt",
+         "Có tủ lạnh",
+         "Có kệ bếp"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-04-15T10:00:00.000+00:00",
+      "createdAt": "2026-01-26T10:00:00.000+00:00",
+      "updatedAt": "2026-01-26T10:00:00.000+00:00"
+   },
+   {
+      "title": "Chung cư gần trung tâm, tiện đi lại",
+      "price": 11000000,
+      "description": "<p>Chung cư sạch đẹp, an ninh, thang máy, hầm xe rộng.</p>",
+      "images": [
+         "https://picsum.photos/600/400?random=33",
+         "https://picsum.photos/600/400?random=34",
+         "https://picsum.photos/600/400?random=35",
+         "https://picsum.photos/600/400?random=36"
+      ],
+      "userId": "69a7d13ea7ac64a1b8122923",
+      "category": "can-ho-chung-cu",
+      "location": "Quận 3, TP.HCM",
+      "phone": "0123456789",
+      "username": "Nguyễn Minh Long",
+      "area": 65,
+      "options": [
+         "Có thang máy",
+         "Có hầm để xe",
+         "Có bảo vệ 24/24",
+         "Giờ giấc tự do",
+         "Có máy lạnh",
+         "Có tủ lạnh",
+         "Có máy giặt",
+         "Có kệ bếp"
+      ],
+      "status": "active",
+      "typeNews": "normal",
+      "endDate": "2026-04-22T10:00:00.000+00:00",
+      "createdAt": "2026-01-27T07:45:00.000+00:00",
+      "updatedAt": "2026-01-27T07:45:00.000+00:00"
+   }
+]
